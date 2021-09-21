@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+}
+.main-title{
+    background-color: wheat;
+    text-align: center;
+    font-family: inherit, sans-serif;
+    font-size: 50px;
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+.sub-title{
+    background-color: wheat;
+    text-align: center;
+    font-family: inherit, sans-serif;
+    font-size: 25px;
+    padding-bottom: 15px;
+    padding-top: 15px;    
+}
+
+.recipe-links{
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    padding-right: 50px;
+    list-style-position: inside;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(209, 147, 96);
+}
+
+.recipe-image{
+    text-align: center;
+    background-color: burlywood;
+    padding: 25px 0px 25px 0px;
+    margin: 0px 50px 0px 50px;
+}
+
+.description{
+    
+}
